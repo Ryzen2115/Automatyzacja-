@@ -1,6 +1,6 @@
 # Automatyzacja obsługi plików Excel — Generator raportów wynagrodzeń
 
-Projekt zaliczeniowy demonstrujący automatyczne przetwarzanie danych z wielu plików Excel przy użyciu Pythona.
+
 
 ---
 
